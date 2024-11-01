@@ -1,7 +1,7 @@
 ---
 title: "Blog Collector"
 description: "How to add posts to your blog."
-date: "Mar 21 2024"
+date: "Mar 20 2024"
 ---
 
 The `blog` collections is found in `src/content/blog`.

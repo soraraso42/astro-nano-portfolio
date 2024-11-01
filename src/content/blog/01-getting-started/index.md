@@ -1,5 +1,5 @@
 ---
-title: "Getting started"
+title: "Random"
 description: "Hit the ground running."
 date: "Mar 22 2024"
 ---
